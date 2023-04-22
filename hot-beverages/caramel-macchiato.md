@@ -2,7 +2,7 @@
 
 ## Description: Make it frothy with a mix of smooth vanilla and velvety caramel for the perfect amount of sweetness. Top it off with a drizzle of caramel for a coffee that tastes as delicious as it looks
 
-## Caramel Sauce Ingredients
+## Caramel Sauce Ingredients included
 
 - 1/2 cup brown sugar
 - 2 Tbsp butter
