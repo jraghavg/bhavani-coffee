@@ -3,6 +3,7 @@
 ## Description: Warm days are made for cold foam. Start your morning with an icy sweet treat
 
 ## Ingredients
+- 10 oz mails
 
 - 8 oz Breakfast Blend
 - 1/4 cup of 2% milk
