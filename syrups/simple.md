@@ -1,6 +1,6 @@
 # Simple Syrup
 
-## Description: When you'd like to sweeten a coffee beverage without changing its flavor, make simple syrup your go-to
+## hello Description: When you'd like to sweeten a coffee beverage without changing its flavor, make simple syrup your go-to
 
 ## Ingredients
 
